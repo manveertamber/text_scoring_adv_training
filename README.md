@@ -1,6 +1,6 @@
 # Adversarial Training of Text Scoring Models
 
-This repository contains code for training and evaluating robust text scoring models including retrievers, rerankers, and reward models, following our paper "Language Models Bleed the Same: A Holistic Study of Training for Adversarial Robustness Across Open-Domain Text Scoring Tasks".
+This repository contains code for training and evaluating robust text scoring models including retrievers, rerankers, and reward models, following our paper "Unifying Adversarial Robustness and Training Across Text Scoring Models".
 
 This repository is currently a work in progress, please feel free to file an issue or contact us if you encounter any problems with the code.
 
